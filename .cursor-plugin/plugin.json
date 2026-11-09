@@ -1,0 +1,26 @@
+{
+  "name": "egnyte",
+  "version": "1.1.0",
+  "description": "Search, read, and manage Egnyte content, use Egnyte AI document intelligence, and run bulk operations through the Egnyte MCP server and Egnyte CLI.",
+  "author": {
+    "name": "Egnyte"
+  },
+  "homepage": "https://developers.egnyte.com",
+  "repository": "https://github.com/egnyte/egnyte-for-ai",
+  "license": "Apache-2.0",
+  "keywords": [
+    "egnyte",
+    "ai",
+    "content",
+    "enterprise-storage",
+    "file-management",
+    "agents",
+    "mcp",
+    "collaboration",
+    "search"
+  ],
+  "logo": "assets/logo.svg",
+  "skills": "./skills/",
+  "rules": "./rules/",
+  "mcpServers": "./.mcp.json"
+}
